@@ -1,0 +1,73 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.image-card>div>img{
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+
+}
+.image-card{
+    background-color: antiquewhite;
+}
+.Product>h1{
+    margin-left: 130px;
+}
+.Products-card{
+    background-color: rgb(250, 249, 247);
+}
+.images>div{
+    width: 300px;
+    background-color: rgb(137, 139, 141);
+    /* background-size: cover; */
+    border-radius: 15px;
+}
+.images {
+    
+    column-gap: 100px;
+}
+.watch>img{
+    width: 300px ;
+    height: 200px;
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_f1TyGJdJcoog-YV_eSYJ2jer62XWcd-Dg&usqp=CAU); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom:10px ;
+    border-radius: 25px;
+    /* margin: 20px; */
+}
+.hand-watch-1{
+/* height: 80%; */
+/* width: 1000px; */
+
+}
+.hand-watch{
+    place-items: center;
+    /* width: 100%; */
+    /* height: 1000px; */
+    width: 80%;
+    height: 80%;
+    
+}
+.pro{
+    background-color: rgb(53, 53, 52);
+    height: 1200px
+
+}
+.watch-2>img{
+    border-radius: 25px;
+    width: 300px ;
+    height: 200px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+
+}
+.hand-1{
+    padding-right: 100px;
+}
